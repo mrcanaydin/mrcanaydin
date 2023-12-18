@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @mrcanaydin
 - 👀 I’m interested in crypto currencies
-- 🌱 I’m currently learning Sales & Marketing
-- 📫 You can reach me at mrcanaydin.com
