@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @mrcanaydin
-- 👀 I’m interested in crypto currencies
+- Php developer
+- Building on Laravel
+- Python beginner
