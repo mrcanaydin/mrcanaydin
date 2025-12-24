@@ -2,4 +2,4 @@
 - Php developer
 - Building on Laravel
 - Python beginner
-- [Cinephilist](cinephilist.com)
+- [Cinephilist](https://cinephilist.com)
